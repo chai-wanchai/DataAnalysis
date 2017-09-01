@@ -2,7 +2,7 @@
 This project about Analysis Signal with EDF file from NSRR dataset 
 
 ##### Method ######
------- Prepare File -----------
+------ Prepare File ----------- 
 1.Download file from NSRR
 2.prepare environment for python
   -Install python 3.6
