@@ -1,2 +1,0 @@
-s = "ddf.edf"
-print(s.split('.edf'))
